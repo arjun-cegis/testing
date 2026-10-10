@@ -1,0 +1,12 @@
+{
+ "part2": "Part two. Reviewing the goals as the reporting manager.",
+ "m_login": "The reporting manager signs in to WorkStation, with their own account.",
+ "m_menu": "From the sidebar, open P M S, and then Goal Setting.",
+ "m_list": "Open the To be Review tab. It lists the goal sheets submitted by your team members. Arjun Dev's goals for twenty twenty-six, twenty-seven, are In Review. Click View Details, to open them.",
+ "m_view": "Go through the employee's goals, their weights and key results, and the collaboration details.",
+ "m_update": "When you have reviewed the goals, click Update Status.",
+ "m_options": "Use the Change Status list to take action. Choose Resubmit, to send the goals back to the employee for changes. The employee can then edit the form and submit it again, following the same steps shown in part one.",
+ "m_approve": "If the goals look good, choose Approved. You can also add feedback in the comment box. Then click Update Status.",
+ "m_done": "The goals are approved. A confirmation message appears, and the status now shows Approved. The employee can track every status change using the Status Flow button.",
+ "outro": "And that's the complete goal setting process in WorkStation. Employees submit their goals, and reporting managers review them, and either approve them, or send them back for resubmission."
+}

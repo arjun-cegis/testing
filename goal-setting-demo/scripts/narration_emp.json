@@ -1,0 +1,19 @@
+{
+ "intro": "This video walks you through the goal setting process in WorkStation. In part one, an employee fills in and submits the goal setting form. In part two, the reporting manager reviews the submission, and either approves it, or sends it back for resubmission.",
+ "part1": "Part one. Submitting your goals as an employee.",
+ "login": "To begin, open WorkStation in your browser, and sign in with your employee e-mail and password.",
+ "menu": "After signing in, open the P M S menu in the left sidebar, and click Goal Setting.",
+ "list": "The My Goal Setting tab lists your goal sheet for the financial year, along with your reporting manager, and the current approval status, which is Draft. Click View, Add Goals, to open it.",
+ "view": "This page shows your details, and the goals added so far. Click Edit or Submit Goals, to start filling in the form.",
+ "form": "The form has two tabs. Goals carry a total weight of eighty percent, and Collaboration carries the remaining twenty percent. The bars at the top track how much weight you have assigned.",
+ "goal1": "For each goal, choose a Category, the K R Type, and the P G F Element it links to. Then enter the goal's weight, and describe the key result you plan to achieve.",
+ "goal2": "Click Add Goals, to add another goal. Here we add a second goal with a weight of forty percent, which brings the goals total to eighty percent. You can add up to eight goals.",
+ "collab": "Next, open the Collaboration tab. Select the collaboration category and sub-category, and give this collaboration a weight. Here we assign ten percent.",
+ "collab_details": "Choose the collaborator by name, then enter their team or function, and how often you plan to check in with them.",
+ "collab_nature": "Describe the projects you will collaborate on, the joint output you will work on together, and why this collaboration is critical for your goals.",
+ "collab_goals": "Then, link the collaboration to the goals it supports.",
+ "collab2": "At least two collaborators are required. Click Add Collaboration, to add the second one. Here we choose collaboration within the team, and assign the remaining ten percent, bringing collaboration to twenty percent.",
+ "collab2_fill": "Fill in the collaborator's details, and the nature of the collaboration, in the same way, and link it to the goals it supports.",
+ "submit": "Both sections are now complete, at eighty and twenty percent. Click Save and submit, to send your goals to your reporting manager. If you want to finish later, use Save as draft instead.",
+ "submitted": "Your goals are submitted. A confirmation message appears, thanking you for submitting your goals, and the status changes to In Review, while your reporting manager reviews them."
+}
